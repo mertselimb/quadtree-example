@@ -1,0 +1,9 @@
+D:\save\c# save\prolab2_2\prolab2_2\bin\Debug\prolab2_2.exe.config
+D:\save\c# save\prolab2_2\prolab2_2\bin\Debug\prolab2_2.exe
+D:\save\c# save\prolab2_2\prolab2_2\bin\Debug\prolab2_2.pdb
+D:\save\c# save\prolab2_2\prolab2_2\obj\Debug\prolab2_2.csprojResolveAssemblyReference.cache
+D:\save\c# save\prolab2_2\prolab2_2\obj\Debug\prolab2_2.Form1.resources
+D:\save\c# save\prolab2_2\prolab2_2\obj\Debug\prolab2_2.Properties.Resources.resources
+D:\save\c# save\prolab2_2\prolab2_2\obj\Debug\prolab2_2.csproj.GenerateResource.Cache
+D:\save\c# save\prolab2_2\prolab2_2\obj\Debug\prolab2_2.exe
+D:\save\c# save\prolab2_2\prolab2_2\obj\Debug\prolab2_2.pdb
